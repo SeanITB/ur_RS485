@@ -1,0 +1,10 @@
+### Understanding of the RS485
+It's a communication protocol, very popular in all the areas of automation. Because it prevents interferences, has long-distance communication, has high speed, can connect multiple devices, etc. 
+This protocol, in plenty of occasions, works with a different protocol; this is Modbus. Modbus has access to an upper level that allows structuring the data.  
+
+
+### Applications
+I will use an urcap that has this protocol that whits for data. Ojo: in a simulator dosen't work.
+
+### Bibliography
+The understaneding of the protocol [sensor1tostop](https://sensor1stop.com/es/knowledge/rs485/)
